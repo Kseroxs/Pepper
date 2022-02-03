@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pepper", "Pepper.csproj", "{C8BC583C-4B09-4219-8AA6-37B91BADAE7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8BC583C-4B09-4219-8AA6-37B91BADAE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BC583C-4B09-4219-8AA6-37B91BADAE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BC583C-4B09-4219-8AA6-37B91BADAE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BC583C-4B09-4219-8AA6-37B91BADAE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1EC5F89-BDF4-48D5-BA58-2AC84F20266F}
+	EndGlobalSection
+EndGlobal
